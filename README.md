@@ -13,7 +13,10 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-
+![](https://leetcard.jacoblin.cool/
+NEEDY23?theme=unicorn)
+![](https://leetcard.jacoblin.cool/
+NEEDY23?theme=light,unicorn)
 ---
 
 
